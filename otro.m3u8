@@ -1,0 +1,53 @@
+EXTM3U url-tvg="https://epg.best/2139f-4bmjl9.xml.gz" x-tvg-url="https://epg.best/2139f-4bmjl9.xml.gz"
+#EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="America TV" tvg-logo="https://static.epg.best/pe/AmericaTelevision.pe.png" tvg-chno="1" channel-id="1" group-title="Perú",America TV
+https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.m3u8?uid=rL2UNrSoREJ6GPUsUeDFztWWti4mImIe&sid=4Wu1wbGccCkj2MNDPBJpMlRglMZKApWO&pid=wWAQ4Bukf1YPHPANbMjNR7TW48Pql0W8&an=screen&at=web-app&av=v5.2.336&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&res=1692x952&without_cookies=false&listenerid=&dnt=true&access_token=MbvuUPHs0YfpkrZvICypNAIMHqw4S7D7ieihoyBGItlRrzkmlNHy5yLCe6DucpAbOK9lfhCkAP6
+#EXTINF:-1 tvg-id="Willax.pe" tvg-name="Willax TV" tvg-logo="https://static.epg.best/pe/Willax.pe.png" tvg-chno="31" channel-id="31" group-title="Perú",Willax TV
+https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmupzwp9O-NXRl8qyW6RghhUChYsqHQVGxnAFRxQfqsyI)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lnyc
+#EXTINF:-1 tvg-id="" tvg-name="Chincha TV" tvg-logo="" tvg-chno="2" channel-id="2" group-title="Perú",Chincha TV
+https://tvdatta.com:3548/live/chinchatvlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eco TV Ica" tvg-logo="" tvg-chno="3" channel-id="3" group-title="Perú",Eco TV Ica
+https://9869301999d6.ngrok.app/hls/stream.m3u8
+#EXTINF:-1 tvg-id="FrecuenciaLatina.pe" tvg-name="Latina" tvg-logo="https://static.epg.best/pe/FrecuenciaLatina.pe.png" tvg-chno="4" channel-id="4" group-title="Perú",Latina
+https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-name="Panamericana Television" tvg-logo="https://static.epg.best/pe/PanamericanaTV.pe.png" tvg-chno="5" channel-id="5" group-title="Perú",Panamericana Television
+https://cdnh71.iblups.com/hls/ptv2.m3u8
+#EXTINF:-1 tvg-id="Willax.pe" tvg-name="Willax TV" tvg-logo="https://static.epg.best/pe/Willax.pe.png" tvg-chno="6" channel-id="6" group-title="Perú",Willax TV
+https://stream-03.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmrx6OI9vhhBavAotVs98J1JnltdyaPrjajGTA31aoKnR)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lnyc
+#EXTINF:-1 tvg-id="ATV.pe" tvg-name="ATV" tvg-logo="https://static.epg.best/pe/ATV.pe.png" tvg-chno="7" channel-id="7" group-title="Perú",ATV
+https://atvperu.akamaized.net/hls/live/2100630/atv/master_720.m3u8
+#EXTINF:-1 tvg-id="ATVPlus.pe" tvg-name="ATV" tvg-logo="https://static.epg.best/pe/ATVPlus.pe.png" tvg-chno="8" channel-id="8" group-title="Perú",ATV
+https://d22ast2s6i1kcc.cloudfront.net/hls/atv2_480.m3u8
+#EXTINF:-1 tvg-id="ATVSur.pe" tvg-name="ATV Sur" tvg-logo="https://static.epg.best/pe/ATVSur.pe.png" tvg-chno="9" channel-id="9" group-title="Perú",ATV Sur
+https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/atv/atvsur1/chunks.m3u8
+#EXTINF:-1 tvg-id="TvPeru.pe" tvg-name="TV peru" tvg-logo="https://static.epg.best/pe/TvPeru.pe.png" tvg-chno="10" channel-id="10" group-title="Perú",TV peru
+https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:-1 tvg-id="TvPeru.pe" tvg-name="TV peru Noticias" tvg-logo="https://static.epg.best/pe/TvPeru.pe.png" tvg-chno="11" channel-id="11" group-title="Perú",TV peru Noticias
+https://cdnh75.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF:-1 tvg-id="Exitosa.pe" tvg-name="Exitosa" tvg-logo="https://static.epg.best/pe/Exitosa.pe.png" tvg-chno="12" channel-id="12" group-title="Perú",Exitosa
+https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cajamarca Tv" tvg-logo="" tvg-chno="14" channel-id="14" group-title="Perú",Cajamarca Tv
+https://ca2.inka.net.pe/cajamarcatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Karibeña HD" tvg-logo="" tvg-chno="13" channel-id="13" group-title="Musica",Karibeña HD
+https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8}
+#EXTINF:-1 tvg-id="" tvg-name="Best musica" tvg-logo="" tvg-chno="17" channel-id="17" group-title="Musica",Best musica
+https://ca2.inka.net.pe/best-Music-0011200000/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Best cumbia" tvg-logo="" tvg-chno="18" channel-id="18" group-title="Musica",Best cumbia
+https://ca2.inka.net.pe/best-MasCum-0100210011/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Best cable Sports" tvg-logo="" tvg-chno="15" channel-id="15" group-title="Deporte",Best cable Sports
+https://ca2.inka.net.pe/Best-sport-000000111/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ovacion TV" tvg-logo="" tvg-chno="16" channel-id="16" group-title="Deporte",Ovacion TV
+https://ca2.inka.net.pe/Best-sport-000000111/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RPP" tvg-logo="" tvg-chno="19" channel-id="19" radio="true" group-title="Radio Perú",RPP
+https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/5fab3416b5f9ef165cfab6e9/playlist.m3u8?listeningSessionID=6437b581145a97fd_134561_LKuXN6J4__00000009qrh&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=rL2UNrSoREJ6GPUsUeDFztWWti4mImIe&sid=ZqvgS5QcgaLzjytaLZVgswoqQKxXBxkd&pid=hcqQPofQI4hljfE0el1e7xRVstlG9NIW&ref=rpp.pe&es=us-b4-p-e-qg12-audio.cdn.mdstrm.com&ote=1681593498495&ot=8Tvbxda5huLldnRSZLekhA&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&aw_0_1st.playerId=audioplayer_web&liveId=5fab3416b5f9ef165cfab6e9&referer=https%3A%2F%2Frpp.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=v0.0.1
+#EXTINF:-1 tvg-id="" tvg-name="Inolvidable" tvg-logo="" tvg-chno="20" channel-id="20" radio="true" group-title="Radio Perú",Inolvidable
+https://19213.live.streamtheworld.com/CRP_LI_SC?csegid=20001&dist=20001&ttag=20001
+#EXTINF:-1 tvg-id="" tvg-name="MODA" tvg-logo="" tvg-chno="21" channel-id="21" radio="true" group-title="Radio Perú",MODA
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MOD_SC?csegid=20001&dist=20001&ttag=20001
+#EXTINF:-1 tvg-id="" tvg-name="NuevaQ" tvg-logo="" tvg-chno="22" channel-id="22" radio="true" group-title="Radio Perú",NuevaQ
+https://23043.live.streamtheworld.com/CRP_NQAAC_SC
+#EXTINF:-1 tvg-id="" tvg-name="Ritmo Romantica" tvg-logo="" tvg-chno="23" channel-id="23" radio="true" group-title="Radio Perú",Ritmo Romantica
+https://19213.live.streamtheworld.com/CRP_LI_SC?csegid=20001&dist=20001&ttag=20001
+#EXTINF:-1 tvg-id="" tvg-name="Panamericana" tvg-logo="" tvg-chno="24" channel-id="24" radio="true" group-title="Radio Perú",Panamericana
+https://streaming.gometri.com/stream/8000/stream
+#EXTINF:-1 tvg-id="" tvg-name="Z Rock & Pop" tvg-logo="" tvg-chno="25" channel-id="25" radio="true" group-title="Radio Perú",Z Rock & Pop
+http://167.114.118.120:7440/;
