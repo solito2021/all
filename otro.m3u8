@@ -2,7 +2,7 @@ EXTM3U url-tvg="https://epg.best/2139f-4bmjl9.xml.gz" x-tvg-url="https://epg.bes
 #EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="America TV" tvg-logo="https://static.epg.best/pe/AmericaTelevision.pe.png" tvg-chno="1" channel-id="1" group-title="Perú",America TV
 https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.m3u8?uid=rOUlfnNKgQ69Ez6Ir3NHatURZWuhX7l0&sid=n9QEgTP78d45ZCX4faYn53DBlYgtoFcu&pid=U3jnSKDFa9dExAQeSWtkF7jkzqmKghOS&an=screen&at=web-app&av=v5.2.336&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F%3Fref%3Dhbprd4&res=1692x952&without_cookies=false&listenerid=&dnt=true&access_token=ccwZiTm8DLYxvkZTyCsm8Khe2TF5N8rzBYOeQSCsf9gLNWMixJMWq2WSoD56ZPukxVjP67Ej3lB
 #EXTINF:-1 tvg-id="Willax.pe" tvg-name="Willax TV" tvg-logo="https://static.epg.best/pe/Willax.pe.png" tvg-chno="31" channel-id="31" group-title="Perú",Willax TV
-https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmupzwp9O-NXRl8qyW6RghhUChYsqHQVGxnAFRxQfqsyI)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lnyc
+https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmupzwp9O-NXRl8qyW6RghhUChYsqHQVGxnAFRxQfqsyI)/dm/3/x7x4dgx/s/live-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Chincha TV" tvg-logo="" tvg-chno="2" channel-id="2" group-title="Perú",Chincha TV
 https://tvdatta.com:3548/live/chinchatvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Eco TV Ica" tvg-logo="" tvg-chno="3" channel-id="3" group-title="Perú",Eco TV Ica
