@@ -2,7 +2,6 @@
 #EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="America TV" tvg-logo="https://static.epg.best/pe/AmericaTelevision.pe.png" tvg-chno="1" channel-id="1" group-title="Perú",America TV
 https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.m3u8?uid=rOUlfnNKgQ69Ez6Ir3NHatURZWuhX7l0&sid=dLtJafkQJobOXjRBGJ3RrBleyNKziIvo&pid=fJKhwHIC1Kl7KgFKmviaDbBL1CFQLEoc&an=screen&at=web-app&av=v5.2.336&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F%3Fref%3Dhbprd4&res=1692x952&without_cookies=false&listenerid=&dnt=true&access_token=PVCA4S7xrKUjwBq5QkG4orYq4Ap5YMmNX19RUINUu8dGw1CQnhUEDDk4ImQUzKbwOIrkOIGKWod
 #EXTINF:-1 tvg-id="" tvg-name="Chincha TV" tvg-logo="" tvg-chno="2" channel-id="2" group-title="Perú",Chincha TV
-https://raw.githubusercontent.com/solito2021/all/main/otro.m3u8#EXTINF:-1 tvg-id="" tvg-name="Eco TV Ica" tvg-logo="" tvg-chno="3" channel-id="3" group-title="Perú",Eco TV Ica
 https://9869301999d6.ngrok.app/hls/stream.m3u8
 #EXTINF:-1 tvg-id="FrecuenciaLatina.pe" tvg-name="Latina" tvg-logo="https://static.epg.best/pe/FrecuenciaLatina.pe.png" tvg-chno="4" channel-id="4" group-title="Perú",Latina
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8
