@@ -9,7 +9,7 @@ https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-name="Panamericana Television" tvg-logo="https://static.epg.best/pe/PanamericanaTV.pe.png" tvg-chno="5" channel-id="5" group-title="Perú",Panamericana Television
 https://stream-04.sv4.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFrFIWbffAhoKFy79j90uJ4NLM-Zx7idKn0Mp3OvfR2vx)/dm/3/x774s7s/s/live-3.m3u8#cell=lsv4
 #EXTINF:-1 tvg-id="Willax.pe" tvg-name="Willax TV" tvg-logo="https://static.epg.best/pe/Willax.pe.png" tvg-chno="6" channel-id="6" group-title="Perú",Willax TV
-https://stream-03.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmsjBDjP_QxHL5nqj92gneMWQA6T-IvWkM3ZXuRoND7dn)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lnyc
+https://stream-03.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmsjBDjP_QxHL5nqj92gneMWQA6T-IvWkM3ZXuRoND7dn)/dm/3/x7x4dgx/s/live-0.m3u8#cell=lnyc
 #EXTINF:-1 tvg-id="ATV.pe" tvg-name="ATV" tvg-logo="https://static.epg.best/pe/ATV.pe.png" tvg-chno="7" channel-id="7" group-title="Perú",ATV
 https://atvperu.akamaized.net/hls/live/2100630/atv/master_720.m3u8
 #EXTINF:-1 tvg-id="ATVPlus.pe" tvg-name="ATV" tvg-logo="https://static.epg.best/pe/ATVPlus.pe.png" tvg-chno="8" channel-id="8" group-title="Perú",ATV
