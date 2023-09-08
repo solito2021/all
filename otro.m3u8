@@ -6,7 +6,7 @@ https://9869301999d6.ngrok.app/hls/stream.m3u8
 #EXTINF:-1 tvg-id="FrecuenciaLatina.pe" tvg-name="Latina" tvg-logo="https://static.epg.best/pe/FrecuenciaLatina.pe.png" tvg-chno="4" channel-id="4" group-title="Perú",Latina
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-name="Panamericana Television" tvg-logo="https://static.epg.best/pe/PanamericanaTV.pe.png" tvg-chno="5" channel-id="5" group-title="Perú",Panamericana Television
-https://cdn75.iblups.com/hls/0/stream.m3u8
+https://dmxleo.dailymotion.com/cdn/manifest/video/x774s7s.m3u8?auth=x&cs=dmx_2PY0-uoumsFKiWsr9a0t-c1cxKGWCnCMgIws_-68Jrqq745cMN0u6_GER4IYmektbcVBQdiGB6blRWiaEQ7O5bOd3SyUB04LEU4we230CwU
 #EXTINF:-1 tvg-id="Willax.pe" tvg-name="Willax TV" tvg-logo="https://static.epg.best/pe/Willax.pe.png" tvg-chno="6" channel-id="6" group-title="Perú",Willax TV
 https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmofAxePb8W7l4yD5up22b0fCfCz94xgZE6o-fIVDNTR5)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lnyc
 #EXTINF:-1 tvg-id="ATV.pe" tvg-name="ATV" tvg-logo="https://static.epg.best/pe/ATV.pe.png" tvg-chno="7" channel-id="7" group-title="Perú",ATV
