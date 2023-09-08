@@ -12,7 +12,7 @@ https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmofAxePb8W7l4yD5up
 #EXTINF:-1 tvg-id="ATV.pe" tvg-name="ATV" tvg-logo="https://static.epg.best/pe/ATV.pe.png" tvg-chno="7" channel-id="7" group-title="Perú",ATV
 https://atvperu.akamaized.net/hls/live/2100630/atv/master_720.m3u8
 #EXTINF:-1 tvg-id="ATVPlus.pe" tvg-name="ATV" tvg-logo="https://static.epg.best/pe/ATVPlus.pe.png" tvg-chno="8" channel-id="8" group-title="Perú",ATV
-https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/ATVpe/ATV1/chunks.m3u8
+https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/ATVSur/ATVSur1/chunks.m3u8
 #EXTINF:-1 tvg-id="ATVSur.pe" tvg-name="ATV Sur" tvg-logo="https://static.epg.best/pe/ATVSur.pe.png" tvg-chno="9" channel-id="9" group-title="Perú",ATV Sur
 https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/ATVSur/ATVSur1/chunks.m3u8
 #EXTINF:-1 tvg-id="TvPeru.pe" tvg-name="TV peru" tvg-logo="https://static.epg.best/pe/TvPeru.pe.png" tvg-chno="10" channel-id="10" group-title="Perú",TV peru
