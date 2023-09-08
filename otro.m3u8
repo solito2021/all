@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://epg.best/2139f-4bmjl9.xml.gz" x-tvg-url="https://epg.best/2139f-4bmjl9.xml.gz"
 #EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="America TV" tvg-logo="https://static.epg.best/pe/AmericaTelevision.pe.png" tvg-chno="1" channel-id="1" group-title="Perú",America TV
+https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/ATVpe/ATV1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Chincha TV" tvg-logo="" tvg-chno="2" channel-id="2" group-title="Perú",Chincha TV
 https://9869301999d6.ngrok.app/hls/stream.m3u8
 #EXTINF:-1 tvg-id="FrecuenciaLatina.pe" tvg-name="Latina" tvg-logo="https://static.epg.best/pe/FrecuenciaLatina.pe.png" tvg-chno="4" channel-id="4" group-title="Perú",Latina
@@ -7,11 +8,11 @@ https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-name="Panamericana Television" tvg-logo="https://static.epg.best/pe/PanamericanaTV.pe.png" tvg-chno="5" channel-id="5" group-title="Perú",Panamericana Television
 https://stream-04.sv4.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFrFIWbffAhoKFy79j90uJ4NLM-Zx7idKn0Mp3OvfR2vx)/dm/3/x774s7s/s/live-3.m3u8#cell=lsv4
 #EXTINF:-1 tvg-id="Willax.pe" tvg-name="Willax TV" tvg-logo="https://static.epg.best/pe/Willax.pe.png" tvg-chno="6" channel-id="6" group-title="Perú",Willax TV
-https://stream-03.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmsjBDjP_QxHL5nqj92gneMWQA6T-IvWkM3ZXuRoND7dn)/dm/3/x7x4dgx/s/live-0.m3u8#cell=lnyc
+https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmofAxePb8W7l4yD5up22b0fCfCz94xgZE6o-fIVDNTR5)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lnyc
 #EXTINF:-1 tvg-id="ATV.pe" tvg-name="ATV" tvg-logo="https://static.epg.best/pe/ATV.pe.png" tvg-chno="7" channel-id="7" group-title="Perú",ATV
 https://atvperu.akamaized.net/hls/live/2100630/atv/master_720.m3u8
 #EXTINF:-1 tvg-id="ATVPlus.pe" tvg-name="ATV" tvg-logo="https://static.epg.best/pe/ATVPlus.pe.png" tvg-chno="8" channel-id="8" group-title="Perú",ATV
-https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/ATVmas/ATVmas1/chunks.m3u8
+https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/ATVpe/ATV1/chunks.m3u8
 #EXTINF:-1 tvg-id="ATVSur.pe" tvg-name="ATV Sur" tvg-logo="https://static.epg.best/pe/ATVSur.pe.png" tvg-chno="9" channel-id="9" group-title="Perú",ATV Sur
 https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/ATVSur/ATVSur1/chunks.m3u8
 #EXTINF:-1 tvg-id="TvPeru.pe" tvg-name="TV peru" tvg-logo="https://static.epg.best/pe/TvPeru.pe.png" tvg-chno="10" channel-id="10" group-title="Perú",TV peru
@@ -19,17 +20,17 @@ https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/ind
 #EXTINF:-1 tvg-id="TvPeru.pe" tvg-name="TV peru Noticias" tvg-logo="https://static.epg.best/pe/TvPeru.pe.png" tvg-chno="11" channel-id="11" group-title="Perú",TV peru Noticias
 https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index_3.m3u8
 #EXTINF:-1 tvg-id="Exitosa.pe" tvg-name="Exitosa" tvg-logo="https://static.epg.best/pe/Exitosa.pe.png" tvg-chno="12" channel-id="12" group-title="Perú",Exitosa
-https://streamtv.onliv3.online:1936/exito-tv/exito-tv/chunklist_w1842425516.m3u8
+https://streamtv.onliv3.online:1936/exito-tv/exito-tv/chunklist_w1703030315.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cajamarca Tv" tvg-logo="" tvg-chno="14" channel-id="14" group-title="Perú",Cajamarca Tv
 https://ca2.inka.net.pe/cajamarcatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Karibeña HD" tvg-logo="" tvg-chno="13" channel-id="13" group-title="Musica",Karibeña HD
-https://streamtv.onliv3.online:1936/karibtv/karibtv/chunklist_w863417012.m3u8
+https://streamtv.onliv3.online:1936/karibtv/karibtv/chunklist_w879843484.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Best musica" tvg-logo="" tvg-chno="17" channel-id="17" group-title="Musica",Best musica
 https://ca2.inka.net.pe/best-Music-0011200000/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Best cumbia" tvg-logo="" tvg-chno="18" channel-id="18" group-title="Musica",Best cumbia
-https://ca2.inka.net.pe/best-MasCum-0100210011/index.m3u8
+https://mi.godo.net.pe/best-MasCum-0102210011/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Best cable Sports" tvg-logo="" tvg-chno="15" channel-id="15" group-title="Deporte",Best cable Sports
-https://ca2.inka.net.pe/Best-sport-000000111/index.m3u8
+https://mi.godo.net.pe/Best-sport-00000x111/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ovacion TV" tvg-logo="" tvg-chno="16" channel-id="16" group-title="Deporte",Ovacion TV
 https://ca2.inka.net.pe/Best-sport-000000111/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RPP" tvg-logo="" tvg-chno="19" channel-id="19" radio="true" group-title="Radio Perú",RPP
